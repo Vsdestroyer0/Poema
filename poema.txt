@@ -1,1 +1,4 @@
-El mar es rojo, la luna azul, y git se muere hasta por el betún
+Las rosas son rojas, 
+las violetas azules
+y git no muere en vano
+
