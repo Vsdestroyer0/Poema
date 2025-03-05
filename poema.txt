@@ -1,3 +1,1 @@
-Las rosas son rosas
-las violetas son verdes
-git no vive en vano
+El mar es rojo, la luna azul, y git se muere hasta por el betún
